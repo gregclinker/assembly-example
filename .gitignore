@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+.springBeans
+target
+dependency-reduced-pom.xml
+file-generator.log
+file-gen.txt*
